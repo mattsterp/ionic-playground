@@ -1,5 +1,6 @@
 {
   "name": "playground",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "a4321312",
+  "type": "ionic-angular",
+  "integrations": {}
 }
